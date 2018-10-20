@@ -16,7 +16,7 @@ This is a transcribed version of this [video](https://www.youtube.com/watch?v=Y7
 12. Select _Gradient Overlay_
 13. Change blend mode to _Overlay_
 14. Change _Opacity_ to 25%
-15. Set _Angle_ to 65 degrees
+15. Set _Angle_ to 65 degrees, click _OK_
 16. Bring in the graphic you wish to apply the effect to or type in some text using the Photoshop text tool
 17. Make sure it is imported as a _Smart Object_ (if not, right click the layer and convert it to a smart object)
 18. Scale the graphic or text to cover most of the background unsing command + 't' or ctrl + 't' and dragging from the corner to preserve aspect ratio (Photoshop CC 2019+ // hold shift when dragging in earlier versions)
